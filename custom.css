@@ -1,0 +1,27 @@
+body{
+  background-color: #f6f9f8;
+}
+
+.bodySec{
+  background-color: #e3eaa7;
+  padding: 15px;
+}
+
+#topFont{
+  padding-top: 25px;
+
+}
+
+.card-body{
+  background-color: #86af49;
+}
+
+.cardDeck{
+  padding-top: 40px;
+}
+
+.cardBox{
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+}
